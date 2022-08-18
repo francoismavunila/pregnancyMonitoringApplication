@@ -1,0 +1,43 @@
+{
+    "tips": [
+      { "id": 1, "tip": "Take a prenatal vitamin"},
+      { "id": 2, "tip": "Exercise regularly"},
+      { "id": 3, "tip": "Write a birth plan"},
+      { "id": 4, "tip": "Educate yourself"},
+      { "id": 5, "tip": "Get comfortable shoes"},
+      { "id": 6, "tip": "Eat folate-rich foods (lentils, asparagus, oranges, fortified cereals)"},
+      { "id": 7, "tip": "Eat foods with fiber"},
+      { "id": 8, "tip": "Eat five or six well-balanced meals each day"},
+      { "id": 9, "tip": "Limit caffeine"},
+      { "id": 10, "tip": "Don’t drink alcohol"},
+      { "id": 11, "tip": "Wear sunscreen"}
+    ],
+    "articles": [
+      { "id": 1,
+        "published" :"January 13, 2020",
+        "title": "Healthy Pregnancy", 
+        "message": "Obesity increases the risk for several serious birth defects and other pregnancy complications. If you are underweight, overweight, or have obesity, talk with your healthcare provider about ways to reach and maintain a healthy weight before you get pregnant. Focus on a lifestyle that includes healthy eating and regular physical activity.\n Many women need to take medicine to stay healthy during pregnancy. If you are planning to become pregnant, discuss your current medicines with a healthcare provider, such as your doctor or pharmacist. Creating a treatment plan for your health condition before you are pregnant can help keep you and your developing baby healthy.  " 
+      },
+      { "id": 2,
+        "published" :"January 2, 2020",
+        "title": "Folic Acid Helps Prevent Some Birth Defects", 
+        "message": "Folic acid is an important part of planning for a healthy pregnancy. CDC urges all women of reproductive age to consume 400 mcg of folic acid each day, in addition to consuming food with folate from a varied diet, to help prevent some major birth defects of the baby’s brain and spine (known as neural tube defects). The two most common types of neural tube defects are anencephaly and spina bifida. Anencephaly is a serious birth defect in which parts of a baby’s brain and skull do not form correctly. Almost all babies born with anencephaly will die shortly after birth. Spina bifida is a serious birth defect in which a baby’s spine does not develop correctly and can result in some severe physical disabilities. All women who are capable of becoming pregnant should get 400 mcg of folic acid every day \n All women need 400 micrograms (mcg) of folic acid every day.Neural tube defects (like anencephaly and spina bifida) happen in the first few weeks of pregnancy, often before a woman finds out she’s pregnant. Also, almost half of all pregnancies in the United States are unintended. This is why it is important for all women who could become pregnant get 400 mcg of folic acid every day, even if they are not actively planning a pregnancy. By the time a woman realizes she is pregnant, it might be too late to prevent these birth defects. Plan ahead! Starting today is the best option." 
+      },
+      { "id": 3,
+        "published" :"November 12, 2019",
+        "title": "Pregnant? Don't Smoke!", 
+        "message": "Smoking during pregnancy can cause babies to be born too small or too early. Women who smoke during pregnancy are more likely to have a baby with a birth defect of the mouth and lip called an orofacial cleft.Babies who breathe in other people’s tobacco smoke are more likely to have ear infections and lung infections, like bronchitis and pneumonia; if they have asthma, breathing in other people’s tobacco smoke can trigger asthma attacks. These babies are also more likely to die from Sudden Infant Death Syndrome (SIDS), a sudden and unexpected infant death that has no immediately obvious cause after investigation.\n Quitting smoking before getting pregnant is best. But for women who are already pregnant, quitting as early as possible can still help protect against some health problems for their developing babies, such as being born too small or too early. It is never too late to quit smoking." 
+      },
+      { "id": 4,
+        "published" :"October 3, 2019",
+        "title": "Pre-existing Diabetes Can Increase Risk for Birth Defects", 
+        "message": "A study from the Centers for Disease Control and Prevention (CDC) found that women with pre-existing diabetes are at an increased risk of having a baby with a birth defect, such as a defect of the brain, spine, or heart. Women with pre-existing diabetes can increase their chances of having a healthy baby by planning for pregnancy and working with a doctor to manage their blood sugar before and during pregnancy.\n Researchers saw the strongest associations between pre-existing diabetes and sacral agenesis (a birth defect of the lower spine), holoprosencephaly (a birth defect of the brain), and limb defects.Several types of congenital heart defects were also strongly linked to maternal pre-existing diabetes. These include truncus arteriosus and atrioventricular septal defect." 
+      },
+      { "id": 5,
+        "published" :"November 1, 2018",
+        "title": "Maternal Cold ", 
+        "message": "A study from the Centers for Disease Control and Prevention (CDC) found that women who had a cold or flu with fever just before or during early pregnancy may be more likely to have a baby born with a birth defect.\n Birth defects are common, costly, and critical conditions that affect 1 in every 33 babies born in the United States each year. Birth defects are structural changes present at birth that can affect almost any part or parts of the body (such as the heart, brain, face, arms, and legs). They may affect how the body looks, works, or both." 
+      }
+    ],
+    "profile": { "name": "typicode" }
+  }
